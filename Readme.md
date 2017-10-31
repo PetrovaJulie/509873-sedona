@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юлия Петрова](https://up.htmlacademy.ru/htmlcss/19/user/509873).
-* Наставник: `Денис Власов`.
+* Наставник: [Денис Власов](https://htmlacademy.ru/profile/amaringo).
 
 ---
 
